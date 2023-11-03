@@ -12,6 +12,7 @@ sections:
       background: /images/picture7.jpg
       button: Share Your Story!
       url: https://www.foundersmemorial.gov.sg/
+      variant: center
   - infobar:
       title: Infobar title
       subtitle: Subtitle
